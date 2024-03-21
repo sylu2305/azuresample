@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3914A669-B5EA-4149-8EC1-2D5AF6091CF4}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\santhosh\\source\\repos\\studentmanagementapi\\studentmanagementapi\\studentmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3914A669-B5EA-4149-8EC1-2D5AF6091CF4}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\studentmanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3914A669-B5EA-4149-8EC1-2D5AF6091CF4}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\santhosh\\source\\repos\\studentmanagementapi\\studentmanagementapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3914A669-B5EA-4149-8EC1-2D5AF6091CF4}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3914A669-B5EA-4149-8EC1-2D5AF6091CF4}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\santhosh\\source\\repos\\studentmanagementapi\\studentmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3914A669-B5EA-4149-8EC1-2D5AF6091CF4}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3914A669-B5EA-4149-8EC1-2D5AF6091CF4}|StudentManagementApi\\StudentManagementApi.csproj|c:\\users\\santhosh\\source\\repos\\studentmanagementapi\\studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3914A669-B5EA-4149-8EC1-2D5AF6091CF4}|StudentManagementApi\\StudentManagementApi.csproj|solutionrelative:studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBE60E4-E101-4C59-942A-335A073D9952}|StudentManagementService\\StudentManagementService.csproj|c:\\users\\santhosh\\source\\repos\\studentmanagementapi\\studentmanagementservice\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBE60E4-E101-4C59-942A-335A073D9952}|StudentManagementService\\StudentManagementService.csproj|solutionrelative:studentmanagementservice\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBE60E4-E101-4C59-942A-335A073D9952}|StudentManagementService\\StudentManagementService.csproj|c:\\users\\santhosh\\source\\repos\\studentmanagementapi\\studentmanagementservice\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBE60E4-E101-4C59-942A-335A073D9952}|StudentManagementService\\StudentManagementService.csproj|solutionrelative:studentmanagementservice\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7002C5-D53F-40ED-8C57-F116D103901D}|SQLRepository\\SQLRepository.csproj|c:\\users\\santhosh\\source\\repos\\studentmanagementapi\\sqlrepository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7002C5-D53F-40ED-8C57-F116D103901D}|SQLRepository\\SQLRepository.csproj|solutionrelative:sqlrepository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7002C5-D53F-40ED-8C57-F116D103901D}|SQLRepository\\SQLRepository.csproj|c:\\users\\santhosh\\source\\repos\\studentmanagementapi\\sqlrepository\\studentrepository2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7002C5-D53F-40ED-8C57-F116D103901D}|SQLRepository\\SQLRepository.csproj|solutionrelative:sqlrepository\\studentrepository2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C874AF5E-878A-491D-B04A-B8FEE4624463}|Common\\Common.csproj|c:\\users\\santhosh\\source\\repos\\studentmanagementapi\\common\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C874AF5E-878A-491D-B04A-B8FEE4624463}|Common\\Common.csproj|solutionrelative:common\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA7002C5-D53F-40ED-8C57-F116D103901D}|SQLRepository\\SQLRepository.csproj|c:\\users\\santhosh\\source\\repos\\studentmanagementapi\\sqlrepository\\studentrepository1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA7002C5-D53F-40ED-8C57-F116D103901D}|SQLRepository\\SQLRepository.csproj|solutionrelative:sqlrepository\\studentrepository1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBE60E4-E101-4C59-942A-335A073D9952}|StudentManagementService\\StudentManagementService.csproj|c:\\users\\santhosh\\source\\repos\\studentmanagementapi\\studentmanagementservice\\studentmanagementservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FBE60E4-E101-4C59-942A-335A073D9952}|StudentManagementService\\StudentManagementService.csproj|solutionrelative:studentmanagementservice\\studentmanagementservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\StudentManagementApi\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagementApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\StudentManagementApi\\appsettings.json",
+              "RelativeToolTip": "StudentManagementApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-24T04:47:18.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Program.cs",
+              "RelativeToolTip": "StudentManagementApi\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T04:46:47.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\StudentManagementService\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagementService\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\StudentManagementService\\IStudentService.cs",
+              "RelativeToolTip": "StudentManagementService\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T04:48:04.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\StudentManagementService\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagementService\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\StudentManagementService\\StudentService.cs",
+              "RelativeToolTip": "StudentManagementService\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T06:27:15.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagementApi\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\StudentManagementApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagementApi\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T06:18:02.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\Common\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Common\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\Common\\Models\\Student.cs",
+              "RelativeToolTip": "Common\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T09:14:28.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentManagementApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\StudentManagementApi\\StudentManagementApi.csproj",
+              "RelativeDocumentMoniker": "StudentManagementApi\\StudentManagementApi.csproj",
+              "ToolTip": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\StudentManagementApi\\StudentManagementApi.csproj",
+              "RelativeToolTip": "StudentManagementApi\\StudentManagementApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-17T06:29:34.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\SQLRepository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "SQLRepository\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\SQLRepository\\IStudentRepository.cs",
+              "RelativeToolTip": "SQLRepository\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T04:53:32.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentRepository2.cs",
+              "DocumentMoniker": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\SQLRepository\\StudentRepository2.cs",
+              "RelativeDocumentMoniker": "SQLRepository\\StudentRepository2.cs",
+              "ToolTip": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\SQLRepository\\StudentRepository2.cs",
+              "RelativeToolTip": "SQLRepository\\StudentRepository2.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwCcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T04:58:13.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentRepository1.cs",
+              "DocumentMoniker": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\SQLRepository\\StudentRepository1.cs",
+              "RelativeDocumentMoniker": "SQLRepository\\StudentRepository1.cs",
+              "ToolTip": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\SQLRepository\\StudentRepository1.cs",
+              "RelativeToolTip": "SQLRepository\\StudentRepository1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T06:51:40.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentManagementService.csproj",
+              "DocumentMoniker": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\StudentManagementService\\StudentManagementService.csproj",
+              "RelativeDocumentMoniker": "StudentManagementService\\StudentManagementService.csproj",
+              "ToolTip": "C:\\Users\\Santhosh\\source\\repos\\StudentManagementApi\\StudentManagementService\\StudentManagementService.csproj",
+              "RelativeToolTip": "StudentManagementService\\StudentManagementService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-17T06:26:13.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
